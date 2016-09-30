@@ -1,5 +1,5 @@
 MVC5Odata
 =========
 
-MVC5 Web API and OData project
+MVC5 Web API and OData project.
  
